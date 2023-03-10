@@ -1,0 +1,8 @@
+C:\Users\vetal\source\repos\KursWork\KursWork\bin\Debug\KursWork.exe.config
+C:\Users\vetal\source\repos\KursWork\KursWork\bin\Debug\KursWork.exe
+C:\Users\vetal\source\repos\KursWork\KursWork\bin\Debug\KursWork.pdb
+C:\Users\vetal\source\repos\KursWork\KursWork\obj\Debug\KursWork.csproj.AssemblyReference.cache
+C:\Users\vetal\source\repos\KursWork\KursWork\obj\Debug\KursWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\vetal\source\repos\KursWork\KursWork\obj\Debug\KursWork.csproj.CoreCompileInputs.cache
+C:\Users\vetal\source\repos\KursWork\KursWork\obj\Debug\KursWork.exe
+C:\Users\vetal\source\repos\KursWork\KursWork\obj\Debug\KursWork.pdb
