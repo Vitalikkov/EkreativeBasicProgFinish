@@ -1,4 +1,4 @@
-# EkreativeBasicProgFinish
+# EkreativeBasicProgFinish - In progress
 Задача:
 
 У двовимірному цілочисловому масиві розміром n*m елементи набувають лише натуральних значень. 
